@@ -1,7 +1,3 @@
-## Hi there 👋
-## I'm Vitor
-
-
 <h1 align = "justify"> Hi 👋, I am Vitor</h1>
 
 ### Learning:
