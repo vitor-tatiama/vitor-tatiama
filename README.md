@@ -3,11 +3,6 @@
 Hi, I am Vitor.
 I am currently an economic science student at USP taking my first steps at programming. Welcome!
 
-<h2 align = "justify"> Learning </h2>
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=bl)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-
 <h2 align = "justify"> GitHub Stats </h2>
 <div align="right">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitor-tatiama&show_icons=true&count_private=true&hide_border=true&title_color=6272a4&icon_color=6272a4&text_color=ffffff_color=282a36" alt="Vitor Tatiama github stats" /> 
@@ -21,3 +16,9 @@ I am currently an economic science student at USP taking my first steps at progr
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+
+
+<h2 align = "justify"> Learning </h2>
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=bl)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbs
