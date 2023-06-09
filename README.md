@@ -7,7 +7,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitor-tatiama&show_icons=true&count_private=true&hide_border=true&title_color=6272a4&icon_color=6272a4&text_color=c9d1d9&bg_color=282a36" alt="Vitor Tatiama github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-tatiama&layout=compact&hide_border=true&title_color=6272a4&text_color=c9d1d9&bg_color=282a36" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-tatiama&layout=compact&hide_border=true&title_color=6272a4&text_color=c9d1d9&bg_color=282a36" />
 </div>
 
 **vitor-tatiama/vitor-tatiama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
