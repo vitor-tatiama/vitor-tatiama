@@ -1,3 +1,6 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=vitor-tatiama" alt="dexternatan" /></p>
+
+
 <h1 align = "justify"> Hi 👋, I am Vitor</h1>
 
 Hi, I am Vitor.
