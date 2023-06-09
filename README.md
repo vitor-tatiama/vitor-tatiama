@@ -5,6 +5,7 @@
 
 Hi, I am Vitor.
 I am currently an economic science student at USP taking my first steps at programming. Welcome!
+
 [![Gmail Badge](https://img.shields.io/badge/-vitor.t.gouveia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitor.t.gouveia@gmail.com)](mailto:vitor.t.gouveia@gmail.com)
 
 
