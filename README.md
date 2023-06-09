@@ -2,8 +2,10 @@
 ### I'm Vitor
 
 ### Studying:
-<img src=	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+![image]({https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white})
 <!--
+
+
 **vitor-tatiama/vitor-tatiama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
