@@ -15,6 +15,3 @@
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-tatiama&layout=compact&hide_border=true&title_color=6272a4&text_color=ffffff_color=282a36" />
 </div>
 
-
-**vitor-tatiama/vitor-tatiama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
