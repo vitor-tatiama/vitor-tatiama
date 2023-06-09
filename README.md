@@ -2,7 +2,7 @@
 ### I'm Vitor
 
 ### Studying:
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R]([https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=bl))
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 <!--
 
