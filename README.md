@@ -1,5 +1,7 @@
 <h1 align = "justify"> Hi 👋, I am Vitor</h1>
 
+Hi, I am Vitor.
+I am currently an economic science student at USP taking my first steps at programming. Welcome!
 
 <h2 align = "justify"> Learning </h2>
 
