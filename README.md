@@ -8,7 +8,9 @@ I am currently an economic science student at USP taking my first steps at progr
 
 [![Gmail Badge](https://img.shields.io/badge/-vitor.t.gouveia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitor.t.gouveia@gmail.com)](mailto:vitor.t.gouveia@gmail.com)
 
-[(https://img.shields.io/badge/Fernanda_Mees-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/feehmees) , [![GitHub Badge](https://img.shields.io/badge/Vitor_Tatiama-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vitor-tatiama)
+[![GitHub Badge](https://img.shields.io/badge/Vito-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vitor-tatiama)
+
+[![GitHub Badge](https://img.shields.io/badge/Vitor_Tatiama-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vitor-tatiama)
 
 
 <h2 align = "justify"> GitHub Stats </h2>
