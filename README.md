@@ -8,19 +8,11 @@ I am currently an economic science student at USP taking my first steps at progr
 
 [![Gmail Badge](https://img.shields.io/badge/-vitor.t.gouveia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitor.t.gouveia@gmail.com)](mailto:vitor.t.gouveia@gmail.com)
 
-[<h1 align="center">
-  [![GitHub Badge](https://img.shields.io/badge/Adriel_Faustino-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aF4ust)
-  [![GitHub Badge](https://img.shields.io/badge/André_Pennini-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Pennini)
-  [![GitHub Badge](https://img.shields.io/badge/Fernanda_Mayumi-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/fernandamay)
-  [![GitHub Badge](https://img.shields.io/badge/Fernanda_Mees-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/feehmees)
-  [![GitHub Badge](https://img.shields.io/badge/Vitor_Tatiama-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vitor-tatiama)
-</h1>
-
 <div align="center">
 
-  <a href="">[![GitHub Badge](https://img.shields.io/badge/Adriel_Faustino-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aF4ust))</a>
+  <a href="">[![GitHub Badge](https://img.shields.io/badge/Adriel_Faustino-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aF4ust)</a>
   <a href="">[![GitHub Badge](https://img.shields.io/badge/André_Pennini-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Pennini)
-  <a href="">[![GitHub Badge](https://img.shields.io/badge/Fernanda_Mayumi-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/fernandamay))</a>
+  <a href="">[![GitHub Badge](https://img.shields.io/badge/Fernanda_Mayumi-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/fernandamay)</a>
   <a href="">[![GitHub Badge](https://img.shields.io/badge/Fernanda_Mees-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/feehmees)</a>
   <a href="">[![GitHub Badge](https://img.shields.io/badge/Vitor_Tatiama-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vitor-tatiama)</a>
 
